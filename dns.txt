@@ -1,0 +1,10 @@
+assets.adobedtm.com
+data.adobedc.com
+firebase-settings.crashlytics.com
+dpm.demdex.net
+firebaselogging-pa.googleapis.com
+logx.optimizely.com
+cdn.storifyme.xyz
+storifyme.xyz
+p11.techlab-cdn.com
+graph.whatsapp.com
