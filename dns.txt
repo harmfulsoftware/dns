@@ -1,9 +1,12 @@
+apps-analytics-services.com
 assets.adobedtm.com
 data.adobedc.com
 firebase-settings.crashlytics.com
 dpm.demdex.net
 firebaselogging-pa.googleapis.com
+sc.omtrdc.net
 logx.optimizely.com
+ingest.sentry.io
 cdn.storifyme.xyz
 storifyme.xyz
 p11.techlab-cdn.com
