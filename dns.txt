@@ -1,6 +1,8 @@
 apps-analytics-services.com
 assets.adobedtm.com
 data.adobedc.com
+stags.bluekai.com
+tags.bluekai.com
 firebase-settings.crashlytics.com
 dpm.demdex.net
 firebaselogging-pa.googleapis.com
